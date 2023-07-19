@@ -2,6 +2,10 @@
 
 This repository contains a **TodoList** application which is a simple and efficient task management application developed using the Angular framework.  It provides users with an intuitive and user-friendly interface to organize and keep track of their daily tasks, to-do items, and important deadlines. This app will help stay on top of your tasks and boost productivity.
 
+## Deployed Link
+
+https://todolistonangular.netlify.app
+
 ## Key Features:
 
 **Task Creation and Management:** Users can add new tasks by entering a title, description, and due date. The app provides an intuitive interface to organize tasks into different lists or prioritize them using labels.
