@@ -4,7 +4,7 @@ This repository contains a **TodoList** application which is a simple and effici
 
 ## Deployed Link
 
-https://todolistonangular.netlify.app
+https://taskmanagerangular.netlify.app
 
 ## Key Features:
 
