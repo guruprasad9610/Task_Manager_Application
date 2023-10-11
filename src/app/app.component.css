@@ -1,0 +1,12 @@
+.container
+{
+    border-radius: 5px;
+    background-color: rgb(236, 236, 236);
+}
+
+.nav-link:hover,
+.navbar-brand:hover
+{
+    font-weight: bold;
+    color: blue;
+}
