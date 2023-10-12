@@ -1,6 +1,6 @@
-# Todo_List_Application
+# Task_Manager_Application
 
-This repository contains a **TodoList** application which is a simple and efficient task management application developed using the Angular framework.  This single page application provides users with an intuitive and user-friendly interface to organize and keep track of their daily tasks, to-do items, and important deadlines. This app will help stay on top of your tasks and boost productivity.
+This repository contains a **Task_Manager** application which is a simple and efficient task management application developed using the Angular framework.  This single page application provides users with an intuitive and user-friendly interface to organize and keep track of their daily tasks, to-do items, and important deadlines. This app will help stay on top of your tasks and boost productivity.
 
 ## Deployed Link
 
