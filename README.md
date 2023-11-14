@@ -4,7 +4,7 @@ This repository contains a **Task_Manager** application which is a simple and ef
 
 ## Deployed Link
 
-https://taskmanagerangular.netlify.app
+https://taskmanagerangular.netlify.app/
 
 ## Key Features:
 
